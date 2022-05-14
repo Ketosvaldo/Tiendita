@@ -8,6 +8,7 @@ export default StyleSheet.create({
     },
 
     text: {
+        fontSize: 20,
         marginBottom:10,
     },
 })
